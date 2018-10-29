@@ -15,11 +15,36 @@ There are 2 ways in which Twitter allows you to filter things from your feed. Yo
 
 These are two very crude ways to filter your feed, but unfortunately it's the only thing Twitter offers at the moment. As part of Mute Politics I've included some resources that utilize both approaches.
 
-### Blocking All U.S. Politics
+### How to Import a Block List of Twitter Accounts (On the web)
 
-*Note: Read How to import a block list of Twitter accounts for instructions on how to use the bellow lists.*
+Preparation: Select and download a block user list (e.g. [us_politics_all](us_politics_all.csv) or read more [here](blocking-all-accounts-related-to-u-s-politics))
 
-You can block everyone that I cover that is related to u.s. politics by using the blocklist us_politics_all.csv. Currently this blocks Twitter accounts corresponding to members of:
+Step 1: Click on your profile icon on the top right
+
+Step 2: Click "Settings and Privacy"
+
+Step 3: Click "Blocked Accounts"
+
+Step 4: Click "Advanced Options"
+
+Step 5: Click "Import a list"
+
+Step 6: Click "Attach a file to upload" and navigate to one of the provided user block lists
+
+Step 7: Click "Preview" to preview the accounts that will be blocked
+
+Step 8: Click "Block" to initiate the blocking
+
+And you're done!
+
+### How to Mute Words on Twitter
+
+
+### Blocking All Accounts Related to U.S. Politics
+
+*Note: Read [How to import a block list of Twitter Accounts](#how to-import-a-block-list-of-twitter-accounts) for instructions on how to use the bellow lists.*
+
+You can block everyone that I cover that is related to U.S. Politics by using the blocklist [us_politics_all](us_politics_all.csv). Currently this blocks Twitter accounts corresponding to members of:
 - U.S. Cabinet (aka Trump admin, including Trump & Pence)
 - U.S. Senate
 - U.S. Congress
@@ -40,10 +65,10 @@ You can find the import block list of all U.S. Politics here: us_politics_all.cs
 If blocking all categories of accounts pertaining to U.S. Politics is too coarse, you can choose to block specific group of accounts only e.g. block U.S. Cabinet only.
 
 You can find the specific block lists here:
-- U.S. Cabinet (includes Trump & Pence)
-- U.S. Senate
-- U.S. Congress
-- U.S. Election "Partners" (e.g. State level Secretary of State)
+- [U.S. Cabinet](us_cabinet.csv) (includes Trump & Pence)
+- [U.S. Senate](us_senate.csv)
+- [U.S. Congress](us_congress.csv)
+- [U.S. Election "Partners"](us_election_partners.csv) (e.g. State level Secretary of State)
 
 ## Mute Politics: US Keywords
 
@@ -55,7 +80,7 @@ The second approach is using Twitter's mute keywords option available through Se
 - You will not be made aware when a tweet gets muted from your timeline
 - There is no time-limit that you can set on muted words (like there is for blocking accounts)
 
-For the reasons above I've limited the muted word list for U.S. Politics to the words that are the most likely to mute political content and simultaneously the least likely to generate false positives. 
+For the reasons above I've limited the muted word list for U.S. Politics to the words that are the most likely to mute political content and simultaneously the least likely to generate false positives.
 
 potus
 clinton
