@@ -19,7 +19,7 @@ These are two very crude ways to filter your feed, but unfortunately it's the on
 
 ![Explanainer Video](screencast.gif)
 
-Preparation: Select and download a block user list (e.g. [us_politics_all](us_politics_all.csv) or read more [here](blocking-all-accounts-related-to-u-s-politics))
+Preparation: Select and download a block user list (e.g. [us_politics_all](us_politics_all.csv) or read more [here](blocking-all-accounts-related-to-us-politics))
 
 Step 1: Click on your profile icon on the top right
 
@@ -41,10 +41,18 @@ And you're done!
 
 ### How to Mute Words on Twitter
 
+Step 1: Click on your profile icon on the top right
+
+Step 2: Click "Settings and Privacy"
+
+Step 3: Click "Muted words"
+
+Step 4: Click "Add" to add words
+
 
 ### Blocking All Accounts Related to U.S. Politics
 
-Note: Read [How to import a block list of Twitter Accounts](#how to-import-a-block-list-of-twitter-accounts) for instructions on how to use the bellow lists.
+Note: Read [How to import a block list of Twitter Accounts](#how to-import-a-block-list-of-twitter-accounts) for instructions on how to use the below lists.
 
 You can block everyone that I cover that is related to U.S. Politics by using the blocklist [us_politics_all](us_politics_all.csv). Currently this blocks Twitter accounts corresponding to members of:
 - U.S. Cabinet (aka Trump admin, including Trump & Pence)
@@ -62,7 +70,7 @@ You can find the import block list of all U.S. Politics here: us_politics_all.cs
 
 ### Blocking Specific Types of Accounts in U.S. Politics
 
-*Note: Read How to import a block list of Twitter accounts for instructions on how to use the bellow lists.*
+Note: Read How to import a block list of Twitter Accounts](#how to-import-a-block-list-of-twitter-accounts) for instructions on how to use the below lists.
 
 If blocking all categories of accounts pertaining to U.S. Politics is too coarse, you can choose to block specific group of accounts only e.g. block U.S. Cabinet only.
 
@@ -80,9 +88,8 @@ The second approach is using Twitter's mute keywords option available through Se
 - Muting words in an attempt to mute politics is very prone to introducing false positives. Muting the word "president" will mute tweets containing "president trump" but also a tweet about a "university president"
 - Muting "gop" will not block "gop2018"
 - You will not be made aware when a tweet gets muted from your timeline
-- There is no time-limit that you can set on muted words (like there is for blocking accounts)
 
-For the reasons above I've limited the muted word list for U.S. Politics to the words that are the most likely to mute political content and simultaneously the least likely to generate false positives.
+For the reasons above I've limited the muted word list for U.S. Politics to the words that are the most likely to mute political content and simultaneously the least likely to generate false positives. One thing you may want to consider is expanding the list with worse such as "vote" and "president" but set a time limit within Twitter's interface so the word becomes unmuted after, say, the election cycle.
 
 potus
 clinton
