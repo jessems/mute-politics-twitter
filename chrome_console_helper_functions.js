@@ -43,7 +43,3 @@ link.setAttribute("href", encodedUri);
 link.setAttribute("download", "my_data.csv");
 document.body.appendChild(link); // Required for FF
 link.click(); // This will download the data file named "my_data.csv".
-
-
-
-https://ballotpedia.org/List_of_current_members_of_the_U.S._Congress
