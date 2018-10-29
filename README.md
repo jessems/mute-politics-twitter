@@ -95,7 +95,7 @@ For the reasons above I've limited the muted word list for U.S. Politics to the 
 
 potus  
 alt right
-alt-right
+alt-right  
 clinton  
 bush  
 whitehouse  
