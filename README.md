@@ -91,23 +91,23 @@ The second approach is using Twitter's mute keywords option available through Se
 
 For the reasons above I've limited the muted word list for U.S. Politics to the words that are the most likely to mute political content and simultaneously the least likely to generate false positives. One thing you may want to consider is expanding the list with worse such as "vote" and "president" but set a time limit within Twitter's interface so the word becomes unmuted after, say, the election cycle.
 
-potus
-clinton
-bush
-whitehouse
-legislation
-gop
-republicans
-republican
-democrats
-democrat
-trump
-pence
-kavanaugh
-hillary
-FBI
-DOJ
-obama
-federal government
-u.s. ambassador
-judiciary
+potus  
+clinton  
+bush  
+whitehouse  
+legislation  
+gop  
+republicans  
+republican  
+democrats  
+democrat  
+trump  
+pence  
+kavanaugh  
+hillary  
+FBI  
+DOJ  
+obama  
+federal government  
+u.s. ambassador  
+judiciary  
