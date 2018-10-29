@@ -17,6 +17,8 @@ These are two very crude ways to filter your feed, but unfortunately it's the on
 
 ### How to Import a Block List of Twitter Accounts (On the web)
 
+![Explanainer Video](screencast.gif)
+
 Preparation: Select and download a block user list (e.g. [us_politics_all](us_politics_all.csv) or read more [here](blocking-all-accounts-related-to-u-s-politics))
 
 Step 1: Click on your profile icon on the top right
@@ -42,7 +44,7 @@ And you're done!
 
 ### Blocking All Accounts Related to U.S. Politics
 
-*Note: Read [How to import a block list of Twitter Accounts](#how to-import-a-block-list-of-twitter-accounts) for instructions on how to use the bellow lists.*
+Note: Read [How to import a block list of Twitter Accounts](#how to-import-a-block-list-of-twitter-accounts) for instructions on how to use the bellow lists.
 
 You can block everyone that I cover that is related to U.S. Politics by using the blocklist [us_politics_all](us_politics_all.csv). Currently this blocks Twitter accounts corresponding to members of:
 - U.S. Cabinet (aka Trump admin, including Trump & Pence)
