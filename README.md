@@ -1,6 +1,6 @@
 # Mute Politics on Twitter
 
-This is a resource intended to help you eliminate politics from your  information diet. For now, I've only covered U.S. Politics on Twitter (and I'm unfortunately only just scratching the surface).
+This is a resource intended to help you eliminate politics from your  information diet. For now (and in anticipation of the Nov 6 elections in the U.S.), I've only covered U.S. Politics on Twitter (and I'm unfortunately only just scratching the surface).
 
 Blocking *all* politics is not something I necessarily advocate for everyone. It just so happens that I have 0 interest in the U.S. Political system but have found it difficult to abstain from it online, particularly around election season. You can find more detail in this blog post I wrote.
 
