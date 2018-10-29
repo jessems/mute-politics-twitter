@@ -21,7 +21,7 @@ These are two very crude ways to filter your feed, but unfortunately it's the on
 
 ![Explanainer Video](images/screencast.gif)
 
-Preparation: Select and download a block user list (e.g. [us_politics_all](us_politics_all.csv) or read more [here](blocking-all-accounts-related-to-us-politics))
+Preparation: Select and a block user list (e.g. [us_politics_all](us_politics_all.csv) and click "Raw" to view the raw file. Then click File > Save as in your browser to save as a .csv. Read more [here](blocking-all-accounts-related-to-us-politics))
 
 Step 1: Click on your profile icon on the top right
 
