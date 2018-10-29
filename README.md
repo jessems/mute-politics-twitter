@@ -21,7 +21,7 @@ These are two very crude ways to filter your feed, but unfortunately it's the on
 
 ![Explanainer Video](images/screencast.gif)
 
-Preparation: Select and a block user list (e.g. [us_politics_all](us_politics_all.csv) and click "Raw" to view the raw file. Then click File > Save as in your browser to save as a .csv. Read more [here](blocking-all-accounts-related-to-us-politics))
+Preparation: Select and a block user list (e.g. [us_politics_all](us_politics_all.csv) and click "Raw" to view the raw file. Then click File > Save as in your browser to save as a .csv. Read more [here](#blocking-all-accounts-related-to-us-politics))
 
 Step 1: Click on your profile icon on the top right
 
@@ -54,7 +54,7 @@ Step 4: Click "Add" to add words
 
 ### Blocking All Accounts Related to U.S. Politics
 
-Note: Read [How to import a block list of Twitter Accounts](#how to-import-a-block-list-of-twitter-accounts) for instructions on how to use the below lists.
+Note: Read [how to import a block list of Twitter accounts](#how to-import-a-block-list-of-twitter-accounts-on-the-web) for instructions on how to use the below lists.
 
 You can block everyone that I cover that is related to U.S. Politics by using the blocklist [us_politics_all](us_politics_all.csv). Currently this blocks Twitter accounts corresponding to members of:
 - U.S. Cabinet (aka Trump admin, including Trump & Pence)
