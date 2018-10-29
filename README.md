@@ -4,7 +4,7 @@ This is a resource intended to help you eliminate politics from your  informatio
 
 Blocking *all* politics is not something I necessarily advocate for everyone. It just so happens that I have 0 interest in the U.S. Political system but have found it difficult to abstain from it online, particularly around election season. You can find more detail in this blog post I wrote.
 
-This is a work in progress. If you use the list of accounts or the list of words and something still slips through, quote retweet it and mention @MutePolitics so I can investigate and improve my approach. If you have suggestions for improvements you can tweet me directly at @jessems. Thanks!
+This is a work in progress. If you use the list of accounts or the list of words and something still slips through, quote retweet it and mention [@MutePolitics](https://twitter.com/MutePolitics) so I can investigate and improve my approach. If you have suggestions for improvements you can tweet me directly at [@jessems](https://twitter.com/MutePolitics). Thanks!
 
 ## Instructions
 
@@ -14,6 +14,8 @@ There are 2 ways in which Twitter allows you to filter things from your feed. Yo
 2. You can mute a word e.g. "hillary"
 
 These are two very crude ways to filter your feed, but unfortunately it's the only thing Twitter offers at the moment. As part of Mute Politics I've included some resources that utilize both approaches.
+
+(A note on the block list files. They are .csv files which contain a list of user account *numeric* ids. Twitter requires the number ids as opposed to the twitter handle as well as a .csv even though the file contains no commas.)
 
 ### How to Import a Block List of Twitter Accounts (On the web)
 
