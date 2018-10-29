@@ -4,7 +4,7 @@ This is a resource intended to help you eliminate politics from your  informatio
 
 Blocking *all* politics is not something I necessarily advocate for everyone. It just so happens that I have 0 interest in the U.S. Political system but have found it difficult to abstain from it online, particularly around election season. You can find more detail in this blog post I wrote.
 
-This is a work in progress. If you use the list of accounts or the list of words and something still slips through, quote retweet it and mention [@MutePolitics](https://twitter.com/MutePolitics) so I can investigate and improve my approach. If you have suggestions for improvements you can tweet me directly at [@jessems](https://twitter.com/MutePolitics). Thanks!
+This is a work in progress. If you use the list of accounts or the list of words and something still slips through, quote retweet it and mention [@MutePolitics](https://twitter.com/MutePolitics) so I can investigate and improve my approach. If you have suggestions for improvements you can tweet me directly at [@jessems](https://twitter.com/JesseMS). Thanks!
 
 ## Instructions
 
@@ -19,7 +19,7 @@ These are two very crude ways to filter your feed, but unfortunately it's the on
 
 ### How to Import a Block List of Twitter Accounts (On the web)
 
-![Explanainer Video](screencast.gif)
+![Explanainer Video](images/screencast.gif)
 
 Preparation: Select and download a block user list (e.g. [us_politics_all](us_politics_all.csv) or read more [here](blocking-all-accounts-related-to-us-politics))
 

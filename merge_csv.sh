@@ -1,5 +1,5 @@
 #!/bin/bash
-OutFileName="us_all_politics.csv"                       # Fix the output name
+OutFileName="us_politics_all.csv"                       # Fix the output name
 i=0                                       # Reset a counter
 for filename in ./*.csv; do
  if [ "$filename"  != "$OutFileName" ] ;      # Avoid recursion
