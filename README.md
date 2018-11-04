@@ -81,6 +81,7 @@ You can find the specific block lists here:
 - [U.S. Senate](us_senate.csv)
 - [U.S. Congress](us_congress.csv)
 - [U.S. Election "Partners"](us_election_partners.csv) (e.g. State level Secretary of State)
+- [U.S. Politics-focused Media](us_politics_focused_media.csv) (e.g. The Hill)
 
 ## Mute Politics: US Keywords
 
